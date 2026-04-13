@@ -17,3 +17,21 @@ Sprint 3 establishes the foundations needed for later modeling and dashboard wor
 - practice Python, NumPy, and Pandas basics
 - explore grievance data using tables and visualizations
 - document findings clearly in notebooks and the README
+
+## Initial Insights
+
+- the sample dataset spans multiple categories including water supply, road damage, garbage, street lights, and drainage
+- response times vary noticeably across records, which makes service delay analysis meaningful even in a small sample
+- the sample workflow already supports loading, inspecting, cleaning, and visualizing complaint data in a reproducible way
+
+## Assumptions
+
+- the sample CSV represents the column structure expected in the larger municipal grievance dataset
+- response time is measured in hours and can be compared consistently across complaints
+- timestamps in the source data can be parsed into standard datetime values without timezone conflicts
+
+## Limitations
+
+- the current dataset is intentionally small and only supports foundational learning, not strong real-world inference
+- the visual patterns shown in the notebooks are illustrative and should not be treated as production findings
+- advanced steps from the plan, including NLP, hotspot detection, prediction, and dashboards, are not implemented yet
