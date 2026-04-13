@@ -1,0 +1,6 @@
+complaint_id,timestamp,category,location,status,response_time_hours,description
+1001,2026-04-01 09:00:00,Water Supply,Ward A,pending,30,Low water pressure in the morning
+1002,2026-04-01 11:30:00,Road Damage,Ward B,resolved,12,Large pothole near market road
+1003,2026-04-02 08:15:00,Garbage,Ward A,pending,48,Garbage not collected for two days
+1004,2026-04-02 14:45:00,Street Light,Ward C,resolved,10,Street light flickering at night
+1005,2026-04-03 10:20:00,Drainage,Ward B,pending,36,Blocked drain causing overflow
