@@ -1,0 +1,11 @@
+{
+  "row_count": 5,
+  "column_count": 10,
+  "date_start": "2026-04-01T09:00:00",
+  "date_end": "2026-04-03T10:20:00",
+  "resolved_count": 2,
+  "pending_count": 3,
+  "average_response_time_hours": 27.2,
+  "max_response_time_hours": 48,
+  "min_response_time_hours": 10
+}

@@ -1,0 +1,6 @@
+category,complaint_count,average_response_time_hours,resolved_count,pending_count
+Drainage,1,36.0,0,1
+Garbage,1,48.0,0,1
+Road Damage,1,12.0,1,0
+Street Light,1,10.0,1,0
+Water Supply,1,30.0,0,1
